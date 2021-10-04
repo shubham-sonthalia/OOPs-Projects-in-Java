@@ -1,0 +1,11 @@
+.button {
+    border-radius: 50%;
+    -fx--webkit-transition-duration: 0.4s; /* Safari */
+    -fx-transition-duration: 0.4s;
+    -fx-background-color: #ADFF2F;
+
+
+}
+.button:hover {
+    -fx-background-color: #FF0000; /* Green */
+}
